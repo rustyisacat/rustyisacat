@@ -2,7 +2,7 @@
 
 # hi, i'm rusty 👋
 
-<a href="https://rustyisacat.neocities.org"><img src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=600&size=22&pause=1200&center=true&vCenter=true&width=520&lines=I+make+old+gadgets+do+new+tricks;Hyprland+tinkerer+on+Arch;homelab+runs+on+a+dusty+Latitude;hack+the+world!" alt="typing intro" /></a>
+<a href="https://rustyisacat.neocities.org"><img src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=600&size=22&pause=1200&center=true&vCenter=true&width=520&lines=I+make+old+gadgets+do+new+tricks;Hyprland+tinkerer+on+Arch;homelab+runs+on+a+dusty+Latitude" alt="typing intro" /></a>
 
 [![Rusty's Corner](https://img.shields.io/badge/Rusty's_Corner-neocities-ff6f91?style=flat-square)](https://rustyisacat.neocities.org)
 [![rusty.is-a.dev](https://img.shields.io/badge/rusty.is--a.dev-portfolio-7c5cff?style=flat-square)](https://rusty.is-a.dev)
