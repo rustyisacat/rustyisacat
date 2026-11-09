@@ -17,6 +17,7 @@ I like taking hardware nobody wanted anymore (an Echo Show, a smartwatch, a TV r
 | | |
 |---|---|
 | **[Gambit](https://gambit.rusty.is-a.dev)** | Lichess correspondence chess on a Wear OS watch |
+| **[Flippod](https://rusty-workshop.github.io/flippod/)** | an iPod-style music player and home screen for the TCL Flip 4 flip phone |
 | **[Flick](https://flick.rusty.is-a.dev)** | turn your watch into a programmable NFC tag |
 | **[Muse Echo](https://muse-echo.rusty.is-a.dev)** | an Echo Show 5 reborn as a Muse gadget, with Puff the blob |
 | **[Lookout](https://lookout.rusty.is-a.dev)** | clock, weather, homelab and chess wall display for the living room TV |
