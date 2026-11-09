@@ -46,6 +46,14 @@ I like taking hardware nobody wanted anymore (an Echo Show, a smartwatch, a TV r
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Wear OS](https://img.shields.io/badge/Wear_OS-4285F4?style=flat-square&logo=wearos&logoColor=white)
 
+### 🐍 my year, eaten
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rustyisacat/rustyisacat/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rustyisacat/rustyisacat/output/github-snake.svg" />
+  <img alt="a snake eating my contribution graph" src="https://raw.githubusercontent.com/rustyisacat/rustyisacat/output/github-snake.svg" />
+</picture>
+
 <div align="center">
 <sub>everything's AGPL unless it says otherwise · thanks for stopping by ✨</sub>
 </div>
